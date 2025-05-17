@@ -2,28 +2,8 @@
   <img src="https://github.com/user-attachments/assets/dc26b486-dea3-43e8-bcd1-725085ff37cf" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">
-  Hi there <span class="wave">👋</span>
-</h1>
+<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/wave_hello.gif" width="30"/></h1>
 
-<style>
-  .wave {
-    display: inline-block;
-    animation: wave-animation 2s infinite;
-    transform-origin: 70% 70%;
-  }
-
-  @keyframes wave-animation {
-    0% { transform: rotate( 0.0deg) }
-    10% { transform: rotate(14.0deg) }
-    20% { transform: rotate(-8.0deg) }
-    30% { transform: rotate(14.0deg) }
-    40% { transform: rotate(-4.0deg) }
-    50% { transform: rotate(10.0deg) }
-    60% { transform: rotate( 0.0deg) }
-    100% { transform: rotate( 0.0deg) }
-  }
-</style>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

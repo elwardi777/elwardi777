@@ -7,7 +7,7 @@
 <h1 align="left">
   Hi there! <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.gif" width="30px"/>
 </h1>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+Software+Engineering+student;I'm+always+learning+new+things)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I am a passionate and experienced developer with a strong background in database management and programming. I excel at solving complex problems and delivering efficient, scalable solutions. My focus is on creating seamless user experiences and maintaining clean, maintainable code.<br><br>👯 I’m looking to collaborate on open-source projects, innovative app development, and impactful software solutions that make a difference.<br><br>🤝 I’m looking for help with mastering advanced AI/ML frameworks and expanding my knowledge of cloud computing platforms like AWS and Azure.<br><br>🌱 I’m currently learning new front-end frameworks, microservices architecture, and enhancing my proficiency in DevOps practices.<br><br>💬 Ask me about database optimization, building responsive web applications, or tips for debugging complex code issues.<br><br>⚡ Fun fact: When I'm not coding, I enjoy solving puzzles, exploring the latest tech trends, and experimenting with IoT projects to automate my workspace.
 

@@ -1,5 +1,5 @@
 
-![ChatGPT Image 17 mai 2025, 14_50_32](https://github.com/user-attachments/assets/6c34063e-0ccb-4dbd-8612-7b86af8d2df4)
+![Uploading ChatGPT Image 17 mai 2025, 14_50_32.png…]()
 
 
 

@@ -21,12 +21,6 @@
 ⚡ Fun fact: When I'm not coding, I enjoy solving puzzles, exploring the latest tech trends, and experimenting with IoT projects to automate my workspace.
 </p>
 
-<h2 align="center">🌐 Socials</h2>
-
-<p align="center">
-  <a href="https://www.instagram.com/elwardi._.10/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abderrahmane-ourdi-aa69062b4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-</p>
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -45,6 +39,12 @@
   <img src="https://img.shields.io/badge/sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VB.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" />
+</p>
+<h2 align="center">🌐 Socials</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/elwardi._.10/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abderrahmane-ourdi-aa69062b4/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h2 align="center">💰 You can help me by Donating</h2>

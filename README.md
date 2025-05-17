@@ -2,7 +2,8 @@
   <img src="https://github.com/user-attachments/assets/dc26b486-dea3-43e8-bcd1-725085ff37cf" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/wave_hello.gif" width="30"/></h1>
+<h1 align="center">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/wave_hello.gif" width="30" />
+</h1>
 
 
 <p align="center">

@@ -8,6 +8,28 @@
   Hi there <img src="https://i.imgur.com/4M7IWwP.gif" width="30" />
 </h1>
 
+<h1 style="text-align: center;">
+  Hey, I'm Med Aziz Ben Ismail <span class="wave">👋</span>
+</h1>
+
+<style>
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2s infinite;
+    transform-origin: 70% 70%;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
 
 <p align="center">
   <a href="https://git.io/typing-svg">

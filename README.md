@@ -64,17 +64,6 @@ Feel free to reach out or check out my projects!
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elwardi777&show_icons=true&locale=en&layout=compact" alt="elwardi777" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elwardi777&show_icons=true&locale=en" alt="elwardi777" />
-</p>
-
-<p align="right ">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elwardi777" alt="elwardi777" />
-</p>
 
 <p align="center">
   <picture>

@@ -35,16 +35,16 @@ I love problem-solving and turning ideas into real applications that make a diff
 Feel free to reach out or check out my projects!
 
 </p>
-<h2 align="center">🌐 Portfolio</h2>
+<h2 align="center"> Portfolio</h2>
 
 <p align="center">
-  🚀 Check out my personal portfolio website:<br><br>
+   Check out my personal portfolio website:<br><br>
   <a href="https://www.abderrahmane-ourdi.online/" target="_blank">
-    🌍 www.abderrahmane-ourdi.online
+     www.abderrahmane-ourdi.online
   </a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;" /></a>

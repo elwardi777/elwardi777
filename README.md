@@ -14,21 +14,21 @@
 
 <p align="center">
 
-🎯 **Name:** Abderrahmane Ourdi  
-🌍 **From:** Morocco 🇲🇦  
-🎓 **Status:** Software Engineering Student | Full-Stack Developer  
-💬 **Languages:** Arabic 🇲🇦 | English 🇬🇧 | French 🇫🇷  
+ **Name:** Abderrahmane Ourdi  
+ **From:** Morocco 🇲🇦  
+ **Status:** Software Engineering Student | Full-Stack Developer  
+ **Languages:** Arabic 🇲🇦 | English 🇬🇧 | French 🇫🇷  
 
 
-🔧 I specialize in:
+I specialize in:
 - Building web apps using **React.js**, **TypeScript**
 - Backend development with **PHP**, **Express.js**, and **MySQL**
 - Managing databases like **MySQL** and **SQL Server**
 - Designing user interfaces using **HTML**, **CSS**, and **JavaScript**
 - Working with APIs, authentication, and real-world project integration
 
-📚 I’m always learning and improving my skills, currently focusing on modern web technologies and building complete full-stack projects.  
-💡 I love problem-solving and turning ideas into real applications that make a difference.  
+ I’m always learning and improving my skills, currently focusing on modern web technologies and building complete full-stack projects.  
+I love problem-solving and turning ideas into real applications that make a difference.  
 
 
 
@@ -56,7 +56,7 @@ Feel free to reach out or check out my projects!
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 10px;" /></a>
 </p>
 
-<h2 align="center">💰 You can help me by Donating</h2>
+<h2 align="center">You can help me by Donating</h2>
 
 <p align="center">
   <a href="https://paypal.me/abderahmanelwardi62">

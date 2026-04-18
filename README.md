@@ -44,6 +44,7 @@ Feel free to reach out or check out my projects!
   </a>
 </p>
 
+<h2 align="center"> Tech Stack</h2>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;" /></a>
